@@ -177,17 +177,29 @@ export default function Home() {
   ]
 },
     {
-      company: "Groupe Renault",
-      logo: "/logos/renault.png",
-      role: "Stagiaire Ingénieure Lean Management - amélioration continue",
-      period: "Juillet 2024 – Août 2024",
-      location: "Tanger, Maroc",
-      points: [
-        "Optimisation des flux de production et amélioration de la performance des lignes dans un contexte Industrie 4.0.",
-        "Utilisation d’outils d’analyse et d’amélioration : brainstorming, AMDEC, A3, MVP.",
-        "Animation de réunions, communication régulière sur l’avancement du projet et suivi des actions terrain."
-      ]
-    },
+  company: "Groupe Renault",
+  logo: "/logos/renault.png",
+  role: "Stagiaire Ingénieure Lean Management - Amélioration Continue",
+  period: "Juillet 2024 – Août 2024",
+  location: "Tanger, Maroc",
+  points: [
+    "Analyse des temps de cycle des postes de production au sein du département tôlerie afin d’évaluer la performance opérationnelle de la zone NBS.",
+
+    "Identification des goulots d’étranglement, des gaspillages et des activités sans valeur ajoutée impactant la fluidité des flux de production.",
+
+    "Réalisation d’une étude de modification de ligne visant à optimiser les flux physiques, réduire les pertes de performance et améliorer l’efficacité opérationnelle.",
+
+    "Utilisation d’outils Lean Manufacturing tels que les 5M, les 5 Pourquoi et le brainstorming pour identifier les causes racines des dysfonctionnements et définir des actions correctives.",
+
+    "Animation de réunions d’amélioration continue avec les équipes opérationnelles et participation au suivi des actions terrain.",
+
+    "Élaboration et communication régulière de l’avancement du projet auprès des différents acteurs du département.",
+
+    "Contribution à l’atteinte des objectifs Lean du site à travers l’identification de leviers d’amélioration de la productivité et de la performance industrielle.",
+
+    "Développement de compétences en analyse de flux, résolution de problèmes, animation terrain et conduite du changement dans un environnement industriel automobile exigeant."
+  ]
+},
     {
       company: "Office Chérifien des Phosphates (OCP)",
       logo: "/logos/ocp.png",

@@ -131,17 +131,27 @@ export default function Home() {
 
   const experiences: ExperienceItem[] = [
     {
-      company: "Aperam",
-      logo: "/logos/aperam.png",
-      role: "Apprentie Ingénieure en excellence opérationnelle / Transformation digitale",
-      period: "Septembre 2025 – Présent",
-      location: "Amilly, France",
-      points: [
-        "Transformation digitale des processus industriels grâce à la conception d’une interface opérateur pour 6 machines, permettant la digitalisation des données de production et le suivi en temps réel des KPI.",
-        "Développement d’un tableau de bord managérial intégré à l’ERP Sage pour automatiser le reporting de performance.",
-        "Accompagnement et formation des équipes terrain dans l’adoption de nouveaux outils digitaux et méthodes de travail."
-      ]
-    },
+  company: "Aperam",
+  logo: "/logos/aperam.png",
+  role: "Chef de projet Transformation Digitale",
+  period: "Septembre 2025 – Présent",
+  location: "Amilly, France",
+  points: [
+    "Pilotage d’une démarche de Business Process Re-engineering (BPR) visant la transformation et la digitalisation du processus de collecte des données de production dans une logique Industrie 4.0 et Excellence Opérationnelle.",
+
+    "Réalisation de Gemba Walk, cartographie des flux par Value Stream Mapping (VSM), analyses Ishikawa et SWOT afin d’identifier les dysfonctionnements, les activités sans valeur ajoutée et les opportunités de transformation digitale.",
+
+    "Définition des objectifs SMART, re-conception du processus cible et développement d’une solution digitale complète basée sur Google Apps Script, JavaScript, Google Sheets et Looker Studio.",
+
+    "Conception d’une interface opérateur digitalisée intégrant des mécanismes Poka-Yoke, l’automatisation du calcul des KPI industriels (TRS, Disponibilité, Performance, Qualité, MTBF, MTTR), la génération de dashboards temps réel et l’analyse automatique des pertes de performance via des Pareto dynamiques.",
+
+    "Déploiement de la solution selon une approche Agile, conduite du changement, formation des utilisateurs et intégration continue des retours terrain afin d’assurer une adoption progressive et durable.",
+
+    "Résultats : suppression du processus papier, fiabilisation des données de production, automatisation du reporting industriel, ROI supérieur à 124 % dans le cadre d’un déploiement à l’échelle de l’atelier.",
+
+    "Au-delà des gains directement mesurables, la solution permet d’exploiter la donnée comme levier de décision, de déclencher des chantiers d’amélioration continue (SMED, optimisation des arrêts, amélioration du TRS) et de renforcer la synergie entre digitalisation et excellence opérationnelle afin d’accélérer durablement la performance industrielle."
+  ]
+},
     {
       company: "SLB - Schlumberger",
       logo: "/logos/slb.png",

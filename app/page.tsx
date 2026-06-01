@@ -532,11 +532,10 @@ function InfoItem({ label, value }: { label: string; value: string }) {
   );
 }
 
-function getRevealStyle(visible: boolean) {
+function getRevealStyle() {
   return {
-    opacity: visible ? 1 : 0,
-    transform: visible ? "translateY(0px)" : "translateY(45px)",
-    transition: "opacity 0.9s ease, transform 0.9s cubic-bezier(0.22, 1, 0.36, 1)"
+    opacity: 1,
+    transform: "translateY(0px)"
   };
 }
 

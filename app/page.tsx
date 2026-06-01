@@ -153,18 +153,29 @@ export default function Home() {
   ]
 },
     {
-      company: "SLB - Schlumberger",
-      logo: "/logos/slb.png",
-      role: "Chef de projet Planification et industrialisation",
-      period: "Février 2025 – Août 2025",
-      location: "Abbeville, France",
-      points: [
-        "Définition des futures instructions de travail et optimisation des processus de production.",
-        "Application d’outils Lean et qualité : SAP, DMAIC, VSM, SMED, SIPOC, 5M, CTQ, PDCA et réduction des coûts.",
-        "Conduite d’un chantier Kaizen / 5S avec une équipe de 13 techniciens.",
-        "Collaboration avec les centres SLB internationaux et l’équipe mécanique en Inde."
-      ]
-    },
+  company: "SLB - Schlumberger",
+  logo: "/logos/slb.png",
+  role: "Chef de projet Industrialisation",
+  period: "Février 2025 – Août 2025",
+  location: "Abbeville, France",
+  points: [
+    "Pilotage d’un projet d’industrialisation du système WOSU-AH visant à identifier la stratégie de production la plus performante selon les critères Coût–Qualité–Délai.",
+
+    "Réalisation d’une étude comparative entre plusieurs scénarios industriels (assemblage interne, kitting et solutions fournisseurs) à l’aide d’outils Lean et DMAIC.",
+
+    "Cartographie et analyse des flux de production via VSM, SIPOC et diagramme spaghetti afin d’identifier les activités sans valeur ajoutée et les opportunités d’optimisation.",
+
+    "Définition des CTQ (Critical To Quality), évaluation des risques et élaboration d’une matrice de décision multicritère pour orienter les choix industriels.",
+
+    "Coordination des échanges entre les équipes Production, Méthodes, Qualité et Supply Chain afin d’assurer l’alignement des recommandations avec les contraintes opérationnelles.",
+
+    "Formulation de recommandations permettant d’optimiser les coûts, les délais de production et l’organisation des flux industriels.",
+
+    "Présentation des résultats devant le management de SLB France et les responsables First Line.",
+
+    "Réception du prix du meilleur projet pour la qualité de l’analyse, la pertinence des recommandations et la valeur ajoutée apportée à l’organisation."
+  ]
+},
     {
       company: "Groupe Renault",
       logo: "/logos/renault.png",
